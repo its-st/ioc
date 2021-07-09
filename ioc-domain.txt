@@ -1,2 +1,3 @@
 *.pcloud.com
 agafurretor.com
+mybetterdl.com
