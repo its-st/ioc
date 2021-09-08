@@ -1,3 +1,4 @@
 *.pcloud.com
 agafurretor.com
 mybetterdl.com
+operond.com
