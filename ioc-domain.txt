@@ -26,4 +26,4 @@ pbxsources.com
 sourceslabs.com	
 journalide.org
 visualstudiofactory.com
-*vultrusercontent.com
+*.vultrusercontent.com
