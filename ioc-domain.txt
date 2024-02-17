@@ -27,3 +27,4 @@ sourceslabs.com
 journalide.org
 visualstudiofactory.com
 *.vultrusercontent.com
+*.anydesk.com
