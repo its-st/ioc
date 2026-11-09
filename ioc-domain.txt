@@ -26,6 +26,5 @@ sourceslabs.com
 journalide.org
 visualstudiofactory.com
 *.vultrusercontent.com
-1drv.ms
 wmow.mxuzdsy.es
 recialde.it
